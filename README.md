@@ -4,7 +4,7 @@
 
 🌱 Currently, I'm delving into basic web development techniques.
 
-💼 My technical skills include proficiency in HTML, CSS, JavaScript, Git, and Node.js, and I'm continuously expanding my toolkit with new languages and technologies.
+💼 My technical skills include proficiency in HTML, CSS, JavaScript, Typescript, Git, and Node.js, and I'm continuously expanding my toolkit with new languages and technologies.
 
 💞️ I’m excited to work on any new project that comes my way.
 
