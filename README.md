@@ -1,4 +1,4 @@
-## Hi I'm Mastroianni Jeremias
+## Hi, I'm Mastroianni Jeremias
 
 
 # 💫 About Me:
